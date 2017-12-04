@@ -1,6 +1,7 @@
 <?php
 /*
  * Carbon-Forum
+ *test
  * https://github.com/lincanbin/Carbon-Forum
  *
  * Copyright 2006-2017 Canbin Lin (lincanbin@hotmail.com)
